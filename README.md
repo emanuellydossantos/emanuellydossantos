@@ -1,17 +1,5 @@
-<div align="center">
-    <img src="banner.gif" width="100px" align="left" />
-    <img src="banner.gif" width="100px" align="left" />
-    <img src="banner.gif" width="100px" align="left" />
-    <img src="banner.gif" width="100px" align="left" />
-    <img src="banner.gif" width="100px" align="center" />
-    <img src="banner.gif" width="100px" align="center" />
-    <img src="banner.gif" width="100px" align="right" />
-    <img src="banner.gif" width="100px" align="right" />
-    <img src="banner.gif" width="100px" align="right" />
-    <img src="banner.gif" width="100px" align="right" />
-</div>
-
 # Olá !!! 👋 
+
 ## Eu sou a Emanuelly dos Santos 😃
 - 📚 Aluna - Engenharia de Software (2023-2027)
 - 💻 Interesse em Back-end
@@ -20,7 +8,7 @@
     <a>
         <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellydossantos&show_icons=true&theme=gruvbox_light&count_private=true"/>
     </a>
-    <a>
+     <a>
         <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=emanuellydossantos&show_icons=true&show_icons=true&theme=gruvbox_light&count_private=true" />
     </a>
 </div>
@@ -36,22 +24,7 @@
 </br>
 
 <div align="left">
-<a href="https://www.linkedin.com/in/emanuelly-dos-santos-adm-ti/">
-   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</div>
-
-</br>
-
-<div align="center">
-    <img src="banner.gif" width="100px" align="left" />
-    <img src="banner.gif" width="100px" align="left" />
-    <img src="banner.gif" width="100px" align="left" />
-    <img src="banner.gif" width="100px" align="left" />
-    <img src="banner.gif" width="100px" align="center" />
-    <img src="banner.gif" width="100px" align="center" />
-    <img src="banner.gif" width="100px" align="right" />
-    <img src="banner.gif" width="100px" align="right" />
-    <img src="banner.gif" width="100px" align="right" />
-    <img src="banner.gif" width="100px" align="right" />
+    <a href="https://www.linkedin.com/in/emanuelly-dos-santos-adm-ti/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </div>
