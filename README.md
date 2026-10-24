@@ -6,10 +6,10 @@
 
 <div style='display: inline_block' align="center"><br/>
     <a>
-        <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellydossantos&show_icons=true&theme=synthwave&count_private=true"/>
+        <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellydossantos&show_icons=true&theme=react&count_private=true"/>
     </a>
      <a>
-        <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=emanuellydossantos&show_icons=true&show_icons=true&theme=synthwave&count_private=true" />
+        <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=emanuellydossantos&show_icons=true&show_icons=true&theme=react&count_private=true" />
     </a>
 </div>
 
